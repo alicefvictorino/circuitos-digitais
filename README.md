@@ -10,11 +10,11 @@
 
 ## Laboratórios
 
-- [Laboratório 1 - Portas Lógicas](https://github.com/alicefvictorino/circuitos-digitais/tree/main/Portas%20L%C3%B3gicas)
-- [Laboratório 2 - Circuitos combinacionais](https://github.com/alicefvictorino/circuitos-digitais/tree/main/Circuitos%20Combinacionais)
-- [Laboratório 3 - Multiplexadores e decodificadores](https://github.com/alicefvictorino/circuitos-digitais/tree/main/Multiplexadores%20e%20Decodificadores)
-- [Laboratório 4 - Registradores e contadores](https://github.com/alicefvictorino/circuitos-digitais/tree/main/Registradores%20e%20Contadores)
-- [Laboratório 5 - Máquinas de estados finitos](https://github.com/alicefvictorino)
-- [Laboratório 6 - Calculadora](https://github.com/alicefvictorino)
-- [Laboratório 7 - Unidade lógico-aritmética](https://github.com/alicefvictorino)
-- [Laboratório 8 - Bancos de registradores e memórias](https://github.com/alicefvictorino)
+- Laboratório 1: [Portas Lógicas](https://github.com/alicefvictorino/circuitos-digitais/tree/main/Portas%20L%C3%B3gicas)
+- Laboratório 2: [Circuitos combinacionais](https://github.com/alicefvictorino/circuitos-digitais/tree/main/Circuitos%20Combinacionais)
+- Laboratório 3: [Multiplexadores e decodificadores](https://github.com/alicefvictorino/circuitos-digitais/tree/main/Multiplexadores%20e%20Decodificadores)
+- Laboratório 4: [Registradores e contadores](https://github.com/alicefvictorino/circuitos-digitais/tree/main/Registradores%20e%20Contadores)
+- Laboratório 5: [Máquinas de estados finitos](https://github.com/alicefvictorino/circuitos-digitais/tree/main/M%C3%A1quinas%20de%20Estado%20Finito)
+- Laboratório 6: [Calculadora](https://github.com/alicefvictorino/circuitos-digitais/tree/main/Calculadora)
+- Laboratório 7: [Unidade lógico-aritmética](https://github.com/alicefvictorino/circuitos-digitais/tree/main/Unidade%20L%C3%B3gico%20Aritm%C3%A9tica%20(ALU))
+- Laboratório 8: [Bancos de registradores e memórias](https://github.com/alicefvictorino)
