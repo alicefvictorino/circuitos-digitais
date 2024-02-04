@@ -10,7 +10,7 @@
 
 ## Laboratórios
 
-- [Laboratório 1 - Portas Lógicas](https://github.com/alicefvictorino/circuitos-digitais/tree/main/Portas%20L%C3%B3gicas))
+- [Laboratório 1 - Portas Lógicas](https://github.com/alicefvictorino/circuitos-digitais/tree/main/Portas%20L%C3%B3gicas)
 - [Laboratório 2 - Circuitos combinacionais](https://github.com/alicefvictorino/circuitos-digitais/tree/main/Circuitos%20Combinacionais)
 - [Laboratório 3 - Multiplexadores e decodificadores](https://github.com/alicefvictorino/circuitos-digitais/tree/main/Multiplexadores%20e%20Decodificadores)
 - [Laboratório 4 - Registradores e contadores](https://github.com/alicefvictorino/circuitos-digitais/tree/main/Registradores%20e%20Contadores)
