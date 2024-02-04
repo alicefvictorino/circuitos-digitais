@@ -17,4 +17,4 @@
 - Laboratório 5: [Máquinas de estados finitos](https://github.com/alicefvictorino/circuitos-digitais/tree/main/M%C3%A1quinas%20de%20Estado%20Finito)
 - Laboratório 6: [Calculadora](https://github.com/alicefvictorino/circuitos-digitais/tree/main/Calculadora)
 - Laboratório 7: [Unidade lógico-aritmética](https://github.com/alicefvictorino/circuitos-digitais/tree/main/Unidade%20L%C3%B3gico%20Aritm%C3%A9tica%20(ALU))
-- Laboratório 8: [Bancos de registradores e memórias](https://github.com/alicefvictorino)
+- Laboratório 8: [Bancos de registradores e memórias](https://github.com/alicefvictorino/circuitos-digitais/tree/main/Bancos%20de%20Registradores%20e%20Mem%C3%B3rias)
